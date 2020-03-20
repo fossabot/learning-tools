@@ -1,4 +1,6 @@
 # Learning Tools
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Flearning-tools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Flearning-tools?ref=badge_shield)
+
 
 This repository contains a variety of files and tools for learning new technologies. It is aimed at existing IT professionals who need some help coming up to speed with new technologies, products, or open source projects.
 
@@ -45,3 +47,6 @@ If there are additional projects you feel should be added to this list, please s
 ## License
 
 This content is licensed under the MIT License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Flearning-tools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Flearning-tools?ref=badge_large)
